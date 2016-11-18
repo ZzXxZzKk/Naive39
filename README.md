@@ -1,2 +1,2 @@
 # Naive39
-A awsome RPG game , made by Unity
+An awesome RPG game , made by Unity
